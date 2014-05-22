@@ -1,4 +1,4 @@
-setwd("/home/peter/Development/Courses/Data Science Track/3-Getting and Cleaning Data/Project")
+#setwd("/home/peter/Development/Courses/Data Science Track/3-Getting and Cleaning Data/Project")
 
 # download and unzip the required data if it doesn't exist
 dataset_filename <- "UCI_HAR_Dataset.zip"
